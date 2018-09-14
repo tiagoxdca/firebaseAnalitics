@@ -1,0 +1,6 @@
+framework module Pods_IOSPOCUITests {
+  umbrella header "Pods-IOSPOCUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
